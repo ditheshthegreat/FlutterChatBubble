@@ -12,6 +12,7 @@ class ChatBubble extends CustomPainter {
   var _radius = 10.0;
   var _x = 10.0;
 
+  
 
 
 
