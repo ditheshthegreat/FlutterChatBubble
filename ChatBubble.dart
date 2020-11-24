@@ -79,6 +79,7 @@ class ChatBubble extends CustomPainter {
             ..style = PaintingStyle.fill);
     }
   }
+   //nhvhngv
 
   @override
   bool shouldRepaint(CustomPainter oldDelegate) {
